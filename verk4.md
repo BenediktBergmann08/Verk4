@@ -10,11 +10,15 @@ In anim do duis ullamco. Lorem ad mollit eu anim exercitation qui ea pariatur fu
 
 [Tækniskólinn](https://www.tskoli.is)
 
-(https://tskoli.is/wp-content/uploads/2017/07/Tækniskólinn.Háteigsvegi-1-768x463.jpg)
+![](https://tskoli.is/wp-content/uploads/2017/07/Tækniskólinn.Háteigsvegi-1-768x463.jpg)
+
+Inline-style:
 
 >Dolor tempor velit excepteur ut nostrud est excepteur fugiat fugiat voluptate duis cupidatat elit. Nulla aliquip aute consequat quis elit consequat ullamco excepteur officia.
 
-Video id:HUBNt18RFbo
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=HUBNt18RFbo
+" target="_blank"><img src="http://img.youtube.com/vi/HUBNt18RFbo/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="auto" height="578" border="10" /></a>
 
 ## Aliquip sunt laboris et esse nostrud.
 
