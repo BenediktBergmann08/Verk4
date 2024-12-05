@@ -1,1 +1,12 @@
-
+1.
+cd  stands for change directory it allows you to navigate between different directories or folders on your computer
+ls  stands for list it lists the files and directories in your current directory
+pwd  stands for print working directory it displays the full path of the current working directory essentially it tells you where you are in the directory structure
+mkdir stands for make directory it allows you to create a new directory within your current directory
+2.
+git clone is used to create a copy of an existing Git repository this is especially useful when you want to contribute to a project or just want to have a local copy of a repository
+git status command is used to display the state of the working directory and the staging area it shows you which changes have been staged which havent and which files aren't being tracked by Git
+git diff is used to show the differences between various commits working directories and staging areas it helps you understand what changes have been made to your files
+3.
+git log shows the commit history of a Git repository it provides a detailed list of all commits made to the repository including information about each commit
+4.
