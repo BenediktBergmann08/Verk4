@@ -9,4 +9,6 @@ git status command is used to display the state of the working directory and the
 git diff is used to show the differences between various commits working directories and staging areas it helps you understand what changes have been made to your files
 3.
 git log shows the commit history of a Git repository it provides a detailed list of all commits made to the repository including information about each commit
+git status provides you with essential information about the current state of your working directory and the staging area it helps you see which changes are staged for the next commit which changes are not staged and which files aren't being tracked by Git
+git diff is a powerful tool for comparing changes in your files it shows the differences between various states of your repository
 4.
