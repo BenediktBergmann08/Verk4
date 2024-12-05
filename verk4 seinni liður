@@ -18,5 +18,7 @@ Version control is a system that allows you to track changes made to files over 
 shorten more just one paragraph
 Git offers many benefits such as distributed version control for redundancy, easy branching and merging, fast performance, data integrity, seamless collaboration, comprehensive change history, flexibility in workflows, and strong community support as an open-source tool
 6.
-
+I commit every time i finish a lið and whenever it proves to be usefull and will save progress
 7. 
+shorten one paragraph
+In Git the working directory is where you make changes to your files while the staging area is where you prepare these changes before committing them to the repository. This setup allows you to carefully manage and review changes before they become part of your project's history.
